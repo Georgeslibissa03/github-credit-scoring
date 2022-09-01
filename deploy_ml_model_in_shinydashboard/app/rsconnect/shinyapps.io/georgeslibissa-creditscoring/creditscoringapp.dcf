@@ -1,0 +1,13 @@
+name: creditscoringapp
+title: creditscoringapp
+username:
+account: georgeslibissa-creditscoring
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6891437
+bundleId: 6257225
+url: https://georgeslibissa-creditscoring.shinyapps.io/CreditScoringApp/
+when: 1661987312.48172
+lastSyncTime: 1661987312.48173
+asMultiple: FALSE
+asStatic: FALSE

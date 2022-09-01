@@ -1,0 +1,27 @@
+{
+    "id": "05ACC376",
+    "path": "~/Environement R/Risque de credit/deploy_ml_model_in_shinydashboard/Credit Scoring dans R.R",
+    "project_path": "Credit Scoring dans R.R",
+    "type": "r_source",
+    "hash": "565269921",
+    "contents": "",
+    "dirty": false,
+    "created": 1661966698350.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "571,0",
+        "scrollLine": "555"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1661986898,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1661986899009,
+    "read_only": false,
+    "read_only_alternatives": []
+}
